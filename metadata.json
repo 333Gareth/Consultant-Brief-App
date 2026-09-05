@@ -1,0 +1,8 @@
+{
+  "name": "ConsultantBrief",
+  "description": "A privacy-first personal health dashboard and 1-page pre-consultation summary compiler for specialist medical appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
